@@ -75,15 +75,15 @@ msgstr "Bild in voller Größe"
 
 msgctxt "Label for the Left aligned image option"
 msgid "Left aligned image"
-msgstr ""
+msgstr "Bild auf Link einlegen"
 
 msgctxt "Label for the Centered image option"
 msgid "Centered image"
-msgstr ""
+msgstr "Bild "
 
 msgctxt "Label for the Right aligned image option"
 msgid "Right aligned image"
-msgstr ""
+msgstr "Bild auf Rechts einlegen"
 
 msgctxt "Label for the Change image text alternative button."
 msgid "Change image text alternative"

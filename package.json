@@ -89,7 +89,7 @@
     "@ckeditor/ckeditor5-link": "^1.0.0-alpha.1",
     "@ckeditor/ckeditor5-list": "^1.0.0-alpha.1",
     "@ckeditor/ckeditor5-paragraph": "^1.0.0-alpha.1",
-    "@ckeditor/ckeditor5-ui": "^1.0.0-alpha.1",
+    "@ckeditor/ckeditor5-ui": "git://github.com/0OOooOO0/ckeditor5-ui.git",
     "eslint-config-ckeditor5": "^1.0.6",
     "gulp": "^3.9.1",
     "guppy-pre-commit": "^0.4.0"
